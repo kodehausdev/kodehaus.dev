@@ -13,9 +13,9 @@ export const siteConfig = {
   url: "https://seyi.space",
   ogImage: "/images/og-image.png",
   links: {
-    twitter: "https://x.com/K4PSX",
-    github: "https://github.com/FatokiFury",
-    email: "mailto:Fatokifury@gmail.com",
+    twitter: "https://x.com/kodehausdev",
+    github: "https://github.com/kodehausdev",
+    email: "mailto:hi.kodehaus@gmail.com",
   },
 };
 
